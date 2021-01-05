@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity implements MealRaterDialog.S
         setContentView(R.layout.activity_main);
 
         initRatingButton();
+        // aljfnksdjfndsk
     }
 
     private void initRatingButton() {
